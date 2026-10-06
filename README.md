@@ -78,7 +78,7 @@ project-management/
     ├── phase-01-concept-selection/
     │   ├── README.md
     │   └── artifacts/
-    │       ├── Фаза_1_Отчет_Аренда_автомобилей.docx
+    │       ├── Фаза_1_Отчет_Аренда_автомобилей.docx
     │       └── Фаза_1_Расчеты_TOPSIS_МАИ.xlsx
     ├── phase-02-work-distribution/
     ├── phase-03-project-estimation/
@@ -92,5 +92,5 @@ project-management/
 
 ## 📄 Основные материалы Фазы 1
 
-- [Отчёт по Фазе 1](phases/phase-01-concept-selection/artifacts/Фаза_1_Отчет_Аренда_автомобилей.docx)
+- [Отчёт по Фазе 1](phases/phase-01-concept-selection/artifacts/Фаза_1_Отчет_Аренда_автомобилей.docx)
 - [Расчётная книга TOPSIS и МАИ](phases/phase-01-concept-selection/artifacts/Фаза_1_Расчеты_TOPSIS_МАИ.xlsx)
