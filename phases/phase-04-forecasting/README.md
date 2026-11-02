@@ -34,3 +34,10 @@
 - [Фаза 5 — планирование](../phase-05-planning/README.md)
 - [GitHub Issues](https://github.com/Vlad-gw/project-management/issues)
 - [Матрица RACI](../../RACI.md)
+
+## GitHub Issues
+
+- [#26–#33 — задачи Фазы 4](https://github.com/Vlad-gw/project-management/issues?q=is%3Aissue+%22%5B%D0%A4%D0%B0%D0%B7%D0%B0+4%5D%22)
+- **#29** — реальный журнал недельных часов — открыт;
+- **#33** — финальная загрузка и проверка документов — открыт;
+- остальные расчётные задачи закрыты после подготовки модели.
