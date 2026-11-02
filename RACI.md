@@ -33,3 +33,41 @@
 - **Елена** — расчёт коллективного МАИ;
 - **Антон** — критерии, проверка согласованности, RACI и учёт трудозатрат;
 - экспертное оценивание и итоговая проверка выполняются совместно.
+
+
+## Фаза 2 — Распределение работы (согласована 02.11.2026)
+
+Матрица описывает ответственность за **подготовку и проверку решения задачи распределения**, а не за разработку самого продукта.
+
+| Работа Фазы 2 | Владислав | Виталий | Елена | Антон |
+|---|:---:|:---:|:---:|:---:|
+| Определение состава Фазы 3 | A/R | C | C | C |
+| Экспертные часы для 12 задач | R | R | R | A/R |
+| Индивидуальные предпочтения задач | R | R | R | A/R |
+| Математическая модель и ограничения | A/R | C | C | C |
+| Поиск решения оптимизатором | A/R | R | C | C |
+| Проверка нагрузки и согласование | A | R | R | R |
+| Оформление отчёта Фазы 2 | A/R | C | C | C |
+
+Распределение задач Фазы 3 согласовано 02.11.2026 и зафиксировано в [Issue #25](https://github.com/Vlad-gw/project-management/issues/25).
+
+## Фаза 3 — Оценка проекта (план распределения)
+
+План на **12 задач, 138 чел.-ч**. В матрице обозначен основной исполнитель каждой задачи; статус реального исполнения отражается в GitHub Issues.
+
+| Задача Фазы 3 | Владислав | Виталий | Елена | Антон | Issue |
+|---|:---:|:---:|:---:|:---:|---|
+| T01 Границы продукта и акторы | C | C | C | A/R | [#13](https://github.com/Vlad-gw/project-management/issues/13) |
+| T02 Каталог Use Cases | A/R | C | C | I | [#14](https://github.com/Vlad-gw/project-management/issues/14) |
+| T03 Альтернативные и негативные сценарии | A/R | C | C | I | [#15](https://github.com/Vlad-gw/project-management/issues/15) |
+| T04 Оценки UAW и UUCW | C | C | A/R | I | [#16](https://github.com/Vlad-gw/project-management/issues/16) |
+| T05 Технические и средовые факторы UCP | C | C | A/R | I | [#17](https://github.com/Vlad-gw/project-management/issues/17) |
+| T06 COSMIC: карта E/X/R/W | C | A/R | C | I | [#18](https://github.com/Vlad-gw/project-management/issues/18) |
+| T07 Проверка COSMIC | C | A/R | C | I | [#19](https://github.com/Vlad-gw/project-management/issues/19) |
+| T08 Получение экспертных оценок | R | R | R | A/R | [#20](https://github.com/Vlad-gw/project-management/issues/20) |
+| T09 Агрегация экспертных часов | C | C | C | A/R | [#21](https://github.com/Vlad-gw/project-management/issues/21) |
+| T10 Сопоставление и ресурсная оценка | C | C | A/R | I | [#22](https://github.com/Vlad-gw/project-management/issues/22) |
+| T11 Отчёт Фазы 3 | A/R | C | C | I | [#23](https://github.com/Vlad-gw/project-management/issues/23) |
+| T12 Итоговый контроль | R | R | R | A/R | [#24](https://github.com/Vlad-gw/project-management/issues/24) |
+
+**Важно:** утверждённые оценки часов — план; документально подтверждённые фактические часы вносятся по мере выполнения задач, а не при утверждении модели.
