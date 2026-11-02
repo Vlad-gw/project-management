@@ -34,3 +34,11 @@
 - итоговый статус задачи.
 
 Шаблон новой задачи находится в `.github/ISSUE_TEMPLATE/task.md`.
+
+
+## Фазы 2 и 3 (по состоянию на 02.11.2026)
+
+- Фаза 2: распределение 12 задач подготовлено и согласовано командой. План 138 чел.-ч, оптимальная сумма предпочтений 58 баллов. [Описание Фазы 2](phases/phase-02-work-distribution/README.md).
+- Фаза 3: [Issues #13–23](https://github.com/Vlad-gw/project-management/issues?q=is%3Aissue+is%3Aclosed) закрыты по подготовленным расчётным результатам; [Issue #24](https://github.com/Vlad-gw/project-management/issues/24) остаётся для проверки загрузки файлов.
+- [План/факт времени](docs/time-log-phase-2-3.csv): факт не внесён, даты и часы не придумываются. План не равен фактически отработанному времени.
+- Финальные Word/PDF/XLSX подготовлены к публикации, но пока не загружены: см. [Фаза 2](phases/phase-02-work-distribution/artifacts/README.md) и [Фаза 3](phases/phase-03-project-estimation/artifacts/README.md).
