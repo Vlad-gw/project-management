@@ -37,3 +37,11 @@
 [Задачи Фазы 3 в GitHub Issues](https://github.com/Vlad-gw/project-management/issues) · [Фаза 2](../phase-02-work-distribution/README.md)
 
 Источники методик: [COSMIC](https://cosmic-sizing.org/cosmic-sizing/intro/measurement-process/), [Use Case Points](https://people.eecs.ku.edu/~saiedian/811/Papers/Use-Case-Points/use-case-points-anda.pdf).
+
+## Итоговые документы
+
+Word-отчёт и PDF актуализированы по состоянию на 02.11.2026. **Файлы подготовлены, но ещё не загружены в GitHub**; см. [папку материалов Фазы 3](artifacts/README.md).
+
+Ожидаемые файлы: `phase-03-report.docx`, `phase-03-report.pdf` и `phase-03-calculations.xlsx`.
+
+Содержательная работа над анализом проекта выполнена: 15 UC, 108 CFP, 161,23 UCP. Issue #24 остаётся открытым до проверки публикации. Фактические даты и часы по выполнению учебных задач собираются через [журнал Фазы 2](../phase-02-work-distribution/artifacts/README.md); 138 чел.-ч — это план, не факт.
