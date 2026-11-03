@@ -51,7 +51,7 @@
 
 ## Материалы
 
-- 📄 [Папка отчёта Фазы 2 и расчётов](artifacts/README.md) — Word/PDF/Excel и Python-скрипт;
+- 📄 [Опубликованные материалы Фазы 2](artifacts/README.md) — Word/PDF/Excel и Python-скрипт;
 - 📊 [Журнал времени Фазы 2](../../docs/time-log-phase-2-activities.csv);
 - 📊 [Журнал времени задач Фазы 3](../../docs/time-log-phase-2-3.csv);
 - 📋 [Матрица RACI](../../RACI.md);
@@ -59,4 +59,4 @@
 
 ## Таск-трекер
 
-Работы Фазы 3 отражены в [GitHub Issues #13–24](https://github.com/Vlad-gw/project-management/issues). Расчётные и аналитические задачи #13–23 закрыты. [Задача #24](https://github.com/Vlad-gw/project-management/issues/24) остаётся открытой до загрузки и проверки итоговых файлов.
+Работы Фазы 3 отражены в [GitHub Issues #13–24](https://github.com/Vlad-gw/project-management/issues). Расчётные и аналитические задачи #13–23 закрыты. Итоговый комплект файлов загружен; [контроль публикации #24](https://github.com/Vlad-gw/project-management/issues/24) выполнен.
