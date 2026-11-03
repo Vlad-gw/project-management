@@ -11,7 +11,7 @@
 | **Владислав Гаврилов** [@Vlad-gw](https://github.com/Vlad-gw) | Концепции, Use Cases, сравнение результатов, отчёты |
 | **Виталий Баранов** [@vitbar536](https://github.com/vitbar536) | TOPSIS, COSMIC Function Points |
 | **Елена Дроздова** [@IS-DED-Au](https://github.com/IS-DED-Au) | МАИ, Use Case Points, анализ оценок |
-| **Антон Гамидов** | Критерии, проверка согласованности, экспертные оценки, RACI и учёт времени |
+| **Антон Гамидов** [@twwhrse](https://github.com/twwhrse) | Критерии, проверка согласованности, экспертные оценки, RACI и учёт времени |
 
 ## 🧭 Фазы работы
 
