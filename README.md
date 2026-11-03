@@ -96,7 +96,7 @@
 
 Целевая функция — **58 баллов**. Все ограничения соблюдены. Распределение и исходные оценки согласованы командой.
 
-**Материалы:** [подробная Фаза 2](phases/phase-02-work-distribution/README.md) · [папка материалов](phases/phase-02-work-distribution/artifacts/README.md) · [журнал Фазы 2](docs/time-log-phase-2-activities.csv).
+**Материалы:** [подробная Фаза 2](phases/phase-02-work-distribution/README.md) · [опубликованные файлы](phases/phase-02-work-distribution/artifacts/README.md) · [журнал Фазы 2](docs/time-log-phase-2-activities.csv).
 
 ---
 
@@ -129,7 +129,7 @@
 
 Согласованная интегральная оценка — **около 2 983 чел.-ч** на *разработку программного продукта*. Для ориентировочного сценария с командой из четырёх специалистов — **около 29 недель** с резервом 15%. Гибкие тарифы и расширенные отчёты можно перенести в более позднюю версию.
 
-**Материалы:** [подробная Фаза 3](phases/phase-03-project-estimation/README.md) · [папка материалов](phases/phase-03-project-estimation/artifacts/README.md) · [журнал задач Фазы 3](docs/time-log-phase-2-3.csv).
+**Материалы:** [подробная Фаза 3](phases/phase-03-project-estimation/README.md) · [опубликованные файлы](phases/phase-03-project-estimation/artifacts/README.md) · [журнал задач Фазы 3](docs/time-log-phase-2-3.csv).
 
 ---
 
@@ -138,7 +138,7 @@
 Работы разбиваются на задачи с исполнителями, оценками времени, периодами выполнения и результатами. Роли зафиксированы в [RACI.md](RACI.md), сводка задач — в [TASK_TRACKER.md](TASK_TRACKER.md).
 
 - **Фаза 1:** 12 задач, все закрыты.
-- **Фазы 2–3:** задачи [#13–23](https://github.com/Vlad-gw/project-management/issues?q=is%3Aissue+is%3Aclosed) закрыты; [#24](https://github.com/Vlad-gw/project-management/issues/24) открыта для проверки опубликованных документов.
+- **Фазы 2–3:** задачи [#13–23](https://github.com/Vlad-gw/project-management/issues?q=is%3Aissue+is%3Aclosed) закрыты; [#24](https://github.com/Vlad-gw/project-management/issues/24) завершена: наличие всех файлов в GitHub подтверждено.
 - **Подтверждённое время за 20.10–03.11.2026:** Фаза 2 — **22 чел.-ч**, Фаза 3 — **117,5 чел.-ч** (план 138 ч); итого **139,5 чел.-ч**. Здесь учитывалась *подготовка учебных материалов*, а не разработка системы.
 - Учёт времени: [Фаза 2 — CSV](docs/time-log-phase-2-activities.csv) · [Фаза 3 — CSV](docs/time-log-phase-2-3.csv).
 
