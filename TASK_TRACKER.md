@@ -36,7 +36,7 @@
 Шаблон новой задачи находится в `.github/ISSUE_TEMPLATE/task.md`.
 
 
-## Фазы 2 и 3 (по состоянию на 02.11.2026)
+## Фазы 2 и 3 (по состоянию на 03.11.2026)
 
 - Фаза 2: распределение 12 задач подготовлено и согласовано командой. План 138 чел.-ч, оптимальная сумма предпочтений 58 баллов. [Описание Фазы 2](phases/phase-02-work-distribution/README.md).
 - Фаза 3: [Issues #13–23](https://github.com/Vlad-gw/project-management/issues?q=is%3Aissue+is%3Aclosed) закрыты по подготовленным расчётным результатам; [Issue #24](https://github.com/Vlad-gw/project-management/issues/24) закрыта после проверки загрузки восьми файлов.
