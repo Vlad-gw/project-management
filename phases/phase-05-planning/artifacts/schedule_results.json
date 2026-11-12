@@ -1,0 +1,77 @@
+{
+  "mode": "Учебный сценарный план реализации продукта, не подтверждённое фактическое исполнение",
+  "wbs_tasks": 22,
+  "capacities": {
+    "BAQA": 1,
+    "BE": 2,
+    "FE": 1
+  },
+  "systematic_heuristics": 12,
+  "random_heuristics": 600,
+  "random_seed_start": 20261112,
+  "chosen_heuristic": "RANDOM_005",
+  "best_duration_workdays": 193,
+  "best_duration_workweeks": 38.6,
+  "earliest_start": "2026-11-16",
+  "last_finish": "2027-08-11",
+  "cpm_lower_bound_workdays": 172,
+  "labor_hours": 3400,
+  "phase3_integral_hours": 2983,
+  "comparison_to_phase3_percent": 13.98,
+  "validations": {
+    "all_activities_scheduled": true,
+    "precedence": true,
+    "capacity": true,
+    "calendar": "weekdays Mon-Fri, 8h/day; public holidays excluded"
+  },
+  "heuristic_ranked": [
+    {
+      "method": "SLK",
+      "workdays": 194
+    },
+    {
+      "method": "FREE",
+      "workdays": 194
+    },
+    {
+      "method": "LST",
+      "workdays": 194
+    },
+    {
+      "method": "LSTLFT",
+      "workdays": 194
+    },
+    {
+      "method": "GRPW",
+      "workdays": 194
+    },
+    {
+      "method": "LPT",
+      "workdays": 194
+    },
+    {
+      "method": "GRD",
+      "workdays": 194
+    },
+    {
+      "method": "LFT",
+      "workdays": 198
+    },
+    {
+      "method": "MIS",
+      "workdays": 198
+    },
+    {
+      "method": "GCRWC",
+      "workdays": 198
+    },
+    {
+      "method": "ROT",
+      "workdays": 198
+    },
+    {
+      "method": "GRWC",
+      "workdays": 206
+    }
+  ]
+}
