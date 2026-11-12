@@ -157,3 +157,8 @@
 **Повторный запуск:** Python 3, `python -m pip install numpy`, затем `python phase5_scheduler.py` в каталоге с `project_wbs.csv` и `resources.json`. Программа сформирует полный `heuristic_comparison.csv` (612 строк), `best_schedule.csv`, `stage_milestones.csv` и `schedule_results.json`.
 
 **Связанный прогноз учебной Фазы 5:** [Фаза 4](../phase-04-forecasting/README.md) · **Учебные задачи:** [Issues #34–45](https://github.com/Vlad-gw/project-management/issues).
+
+
+## Проверка и публикация (12.11.2026)
+
+Все отчёты [Word](artifacts/phase5-report.docx), [PDF](artifacts/phase5-report.pdf), [Excel](artifacts/phase5-calculations.xlsx), [диаграмма Ганта](artifacts/gantt.png) и [полное сравнение 612 кандидатов](artifacts/heuristic_comparison.csv) опубликованы. Автоматическая и независимая проверка планов и ограничений отражена в [протоколе аудита](../../docs/phase-04-05-audit-2026-11-12.md). Утверждение модельных параметров командой остаётся отдельным шагом.
