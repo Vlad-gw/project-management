@@ -1,0 +1,39 @@
+{
+  "history_total_tasks": 31,
+  "history_total_hours": 158,
+  "historical_weeks": 6,
+  "historical_task_counts": [
+    8,
+    4,
+    0,
+    8,
+    8,
+    3
+  ],
+  "historical_hours": [
+    12.4,
+    6.1,
+    0,
+    30.75,
+    89.583,
+    19.167
+  ],
+  "academic_tasks": 12,
+  "academic_effort_L": 62,
+  "academic_effort_M": 97,
+  "academic_effort_U": 149,
+  "seed": 20261112,
+  "iterations": 120000,
+  "model1": {
+    "p80_weeks": 4,
+    "mean_weeks": 2.943,
+    "median_weeks": 3
+  },
+  "model2": {
+    "p80_weeks": 7,
+    "mean_weeks": 4.986,
+    "median_weeks": 4
+  },
+  "difference_P80_weeks": 3,
+  "caution": "Недельные часы восстановлены равномерным разнесением подтверждённых итоговых часов задач по дням интервала. Это не измеренные недельные часы."
+}
